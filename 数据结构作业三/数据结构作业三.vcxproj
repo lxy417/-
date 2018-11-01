@@ -162,11 +162,6 @@
     </ClCompile>
     <ClCompile Include="数据结构作业三.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="C:\Users\admin\Desktop\bbb (1).png" />
-    <Image Include="C:\Users\admin\Desktop\bbb (2).png" />
-    <Image Include="C:\Users\admin\Desktop\ccc.png" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

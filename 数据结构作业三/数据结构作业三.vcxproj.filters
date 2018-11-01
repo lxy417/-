@@ -27,15 +27,4 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="C:\Users\admin\Desktop\bbb (2).png">
-      <Filter>源文件</Filter>
-    </Image>
-    <Image Include="C:\Users\admin\Desktop\bbb (1).png">
-      <Filter>源文件</Filter>
-    </Image>
-    <Image Include="C:\Users\admin\Desktop\ccc.png">
-      <Filter>源文件</Filter>
-    </Image>
-  </ItemGroup>
 </Project>
